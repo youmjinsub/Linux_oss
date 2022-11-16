@@ -36,3 +36,4 @@ https://github.com/kapsakcj/win10-linux-conda-how-to
 
 https://github.com/lakinduakash/linux-wifi-hotspot
 
+CentOS7으로 쉽게 터득하는 Linux 시스템 구축 실무 테크닉
