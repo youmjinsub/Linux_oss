@@ -29,4 +29,10 @@
     4. 다중 작업과 가상 터미널 환경 지원
     5. 유닉스와 리눅스의 완벽한 호환
     6. 공개형 오픈 소스의 운영 체제
-    
+   
+참고문헌
+--------------
+https://github.com/kapsakcj/win10-linux-conda-how-to
+
+https://github.com/lakinduakash/linux-wifi-hotspot
+
